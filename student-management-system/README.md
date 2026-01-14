@@ -52,28 +52,14 @@ This project is built to practice **Object-Oriented Programming (OOP)** concepts
 
 ---
 
-## ▶️ How to Run the Project
+## How to Run the Project
 
-```bash
 # Clone the repository
-git clone https://github.com/your-username/oop-python-practice.git
-
+git clone https://github.com/rajputisha16-cmd/oop-python-practice.git
 # Navigate to the project folder
 cd oop-python-practice/student-management-system
-
 # Run the program
 python student_management.py
-
-🔮 Future Scope
-
-This project can be extended in the following ways:
-
--Prevent duplicate course enrollment
--Add multiple students and manage them using a list or dictionary
--Add a menu-driven interface for better user interaction
--Store student and course data using a database (SQLite)
--Add grading system and GPA calculation
--Convert the project into a small REST API or web application
 
 Note : This project uses a small dataset and is designed purely for learning and practicing core OOP concepts in Python.
 

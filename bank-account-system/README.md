@@ -52,3 +52,16 @@ bank_account/
 ## ▶️ How to Run
 Make sure you are inside the project folder and run:
 python main.py
+
+## 📝 Note
+This is a practice-based project created while learning Object-Oriented Programming in Python.
+
+A small dataset is used intentionally to keep the focus on:
+- OOP fundamentals
+- Clean class design
+- Real-world logic implementation
+
+This project represents a learning step in my OOP practice journey.
+
+### 👩‍💻 Author
+Isha Rajput

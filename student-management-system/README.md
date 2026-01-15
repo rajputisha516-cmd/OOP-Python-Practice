@@ -1,4 +1,4 @@
-# Student Management System (OOP – Python)
+# Problem 2: Student Management System (OOP Practice – Python)
 
 ## 📌 Problem Statement
 A college needs a simple system to manage students and the courses they enroll in.
